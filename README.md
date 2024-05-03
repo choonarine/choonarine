@@ -1,4 +1,4 @@
-### Hello World, I'm <a href="https://github.com/choonarine">choonarine</a> 👋
+### 👋 Hello World, I'm <a href="https://github.com/choonarine">choonarine</a>
 
 ## Contact
   
