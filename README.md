@@ -3,4 +3,4 @@
 <br />
 ## Stats
   
-![choonarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=choonarine&show_icons=true&theme=transparent)
+![choonarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=choonarine&show_icons=true)
