@@ -1,8 +1,9 @@
-### 👋 Hello World, I'm <a href="https://github.com/choonarine">choonarine</a>
+### 👋 Hello World, It's me <a href="https://github.com/choonarine">choonarine</a>!
 
-## Contact
-  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choonarine@gmail.com)](mailto:choonarine@gmail.com)
+<!-- Contacts -->
+<p>
+  <a href="mailto:choonarine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/choonarine@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## Stats
   
