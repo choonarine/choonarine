@@ -1,4 +1,4 @@
-# 👋 Hello World, It's me <a href="https://github.com/choonarine">choonarine</a>!
+# 👋 Hello World
 
 <!-- Contacts -->
 <p>
