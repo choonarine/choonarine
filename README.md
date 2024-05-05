@@ -7,6 +7,7 @@
   <a href="https://www.instagram.com/lynnseo_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-## Stats
-  
+---
+
+<!-- Stats -->
 ![choonarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=choonarine&show_icons=true)
